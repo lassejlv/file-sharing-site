@@ -32,3 +32,11 @@ Start the server.
 ```bash
 pnpm (npm, yarn) run dev
 ```
+
+## Read License
+
+You can find the license in the LICENSE [file](https://github.com/lassv/file-sharing-site/blob/main/LICENSE).
+
+## Demo
+
+There are currently no demo!
