@@ -39,4 +39,4 @@ You can find the license in the LICENSE [file](https://github.com/lassv/file-sha
 
 ## Demo
 
-There are currently no demo!
+Check out the demo here: https://file-sharing-site.herokuapp.com
